@@ -1,0 +1,7 @@
+{
+  "name": "webinstaller-test-public",
+  "version": "0.0.1",
+  "description": "Test repo for DEFTai webinstaller",
+  "scripts": { "dev": "next dev", "build": "next build", "test": "vitest" },
+  "dependencies": { "next": "^15.0.0", "react": "^18.3.0" }
+}

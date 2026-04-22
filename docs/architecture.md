@@ -1,0 +1,2 @@
+# Architecture
+Stub architecture overview.
